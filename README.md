@@ -1,4 +1,4 @@
-8# 🤖 SmartTalk AI
+ 🤖 SmartTalk AI
 
 SmartTalk AI is an AI-powered chatbot built using React, Vite, Tailwind CSS, and Google's Gemini API.
 
