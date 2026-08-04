@@ -163,13 +163,4 @@ https://www.linkedin.com/in/vedant-kotkar-48976236b/
 
 https://www.instagram.com/st.v3dant/
 
----
-
-## ⭐ Support
-
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub. It motivates me to build more exciting projects.
-
----
-
-> Built with ❤️ using React + Gemini AI
 
